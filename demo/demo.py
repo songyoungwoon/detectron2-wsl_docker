@@ -16,6 +16,7 @@ from detectron2.utils.logger import setup_logger
 
 from predictor import VisualizationDemo
 
+#demo github test
 # constants
 WINDOW_NAME = "COCO detections"
 
